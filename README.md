@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Nikita
 #### I am junior programmer
 
-Skills: C# / Python / HTML 
+Skills: Python / HTML 
 
 - 🌱 I’m currently learning С# 
 
